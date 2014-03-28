@@ -1,1 +1,18 @@
 hi i am playing 
+scrollViewDidScroll
+refreshVisibleCellAppearance (it run-in switch case 1st one for 3 times)
+scrollViewDidScroll
+refreshVisibleCellAppearance (it run-in switch case 1st one for 3 times)
+[Now image shifted to right but not whole abhi 2 images can be seen]
+scrollViewDidScroll
+refreshVisibleCellAppearance (it run-in switch case 1st one for 3 times)
+scrollViewDidScroll
+refreshVisibleCellAppearance (it run-in switch case 1st one for 3 times)
+scrollViewDidEndDecelerating 
+
+validPageValue
+reloadDataForScrollView
+didReloadData
+
+refreshVisibleCellAppearance
+[all 3 images are seen]
